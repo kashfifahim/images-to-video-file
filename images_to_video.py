@@ -56,3 +56,4 @@ def images_to_video(image_folder, output_video_file, fps=30, duration=5, target_
 
 # Example usage:
 # images_to_video('path_to_image_folder', 'output_video.mp4', fps=30, duration=5)
+images_to_video('images', 'hi_friend.mp4', fps=30, duration=20)
